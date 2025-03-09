@@ -29,6 +29,9 @@ const nextConfig = {
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
   },
+  // Vercel specific settings
+  output: 'standalone',
+  poweredByHeader: false
 }
 
 mergeConfig(nextConfig, userConfig)
