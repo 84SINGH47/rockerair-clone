@@ -24,7 +24,7 @@ Cloned and Customized by Sahilpreet Singh (24BMM0084)
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/84SINGH47/rockerair-clone
 ```
 
 2. Install dependencies:
